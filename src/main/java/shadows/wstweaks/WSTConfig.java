@@ -9,7 +9,7 @@ public class WSTConfig {
 	public static boolean allBiomes = false;
 	public static float allBiomesChance = 1.0F;
 	public static boolean delSwords = true;
-	public static boolean giveBows = true;
+	public static boolean giveBows = false;
 	public static int swordDurability = 4096;
 	public static float swordDamage = 12;
 	public static float swordAtkSpeed = 0.6F;
